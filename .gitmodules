@@ -6,7 +6,7 @@
 	path = template
 	url = https://github.com/abloomston/workwithme.guide-template.git
 	branch = master
-[submodule "workwithme.guide-myguide"]
-	path = workwithme.guide-myguide
+[submodule "craychee"]
+	path = craychee
 	url = https://github.com/craychee/workwithme.guide-myguide.git
 	branch = master
