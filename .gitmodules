@@ -14,3 +14,7 @@
 	path = clintonPantheon
 	url = https://github.com/clintonPantheon/workwithme.guide-myguide.git
 	branch = master
+[submodule "joemiller"]
+	path = joemiller
+	url = https://github.com/joemiller/workwithme.guide-myguide.git
+	branch = master
