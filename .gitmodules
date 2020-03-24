@@ -38,3 +38,7 @@
 	path = pwtyler
 	url = https://github.com/pwtyler/workwithme.guide-myguide.git
 	branch = master
+[submodule "alexfornuto"]
+	path = alexfornuto
+	url = https://github.com/alexfornuto/workwithme.guide-myguide.git
+	branch = master
