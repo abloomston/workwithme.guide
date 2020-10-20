@@ -46,3 +46,7 @@
 	path = workwithme.guide/rkanson
 	url = https://github.com/rkanson/workwithme.guide-myguide.git
 	branch = master
+[submodule "rkanson"]
+	path = rkanson
+	url = https://github.com/rkanson/workwithme.guide-myguide.git
+	branch = master
