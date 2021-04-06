@@ -50,3 +50,7 @@
 	path = mitchPantheon
 	url = https://github.com/mitchellmarkoff/workwithme.guide-myguide.git
 	branch = master
+[submodule "bhavdeepPantheon"]
+	path = bhavdeepPantheon
+	url = https://github.com/bhavdeepsinghb/workwithme.guide-myguide.git
+	branch = master
